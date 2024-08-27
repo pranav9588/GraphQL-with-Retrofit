@@ -6,9 +6,7 @@ This repository demonstrates the integration of GraphQL with Retrofit in an Andr
 
 - **GraphQL Queries and Mutations**: Learn how to perform GraphQL queries and mutations using Retrofit.
 - **Retrofit Integration**: Uses Retrofit for making network requests.
-- **Custom GraphQL Converter**: A custom Retrofit `Converter.Factory` is used to handle GraphQL responses.
 - **Android Architecture Components**: Incorporates ViewModel, LiveData, and other architecture components to follow modern Android development practices.
-- **Error Handling and Caching**: Implements robust error handling and caching mechanisms.
 
 ### Prerequisites
 Before starting, ensure you have the following setup:
